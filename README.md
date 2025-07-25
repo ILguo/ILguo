@@ -4,10 +4,7 @@
 - 🎓 Técnico em Desenvolvimento de Jogos Digitais.
 - 🤖 Projetista Robótico.
 
-<div>
-
-![ILguo's stats](https://github-readme-stats.vercel.app/api?username=ILguo&show_icons=true&theme=tokyonight)![ILguo's Stats](https://github-readme-stats.vercel.app/api?username=ILguo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
-</div>
+![ILguo's stats](https://github-readme-stats.vercel.app/api?username=ILguo&show_icons=true&theme=tokyonight)     ![ILguo's Stats](https://github-readme-stats.vercel.app/api?username=ILguo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
