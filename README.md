@@ -6,7 +6,8 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILguo&show_icons=true&theme=tokyonight)
+![ILguo's stats](https://github-readme-stats.vercel.app/api?username=ILguo&show_icons=true&theme=tokyonight)
+![ILguo's Stats](https://github-readme-stats.vercel.app/api?username=VictorCalado13&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,8 +15,7 @@
   <img align="center" alt="Igor-C++" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Igor-Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Igor-Html5" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />    
-  <img align="center" alt="Igor-Html5" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-          
+  <img align="center" alt="Igor-Html5" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />      
 </div>
 
 
