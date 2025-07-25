@@ -1,5 +1,5 @@
-### Olá! Eu sou o Victor Calado
+### Olá! Eu sou o Igor Calado
 
-- 🎓 Acadêmico de Engenharia de Computação.
-- 📕 Estudando Sistemas Embarcados.
+- 🎓 Estudante de Ensino Médio.
+- 🎓 Técnico em Desenvolvimento de Jogos Digitais.
 - 🤖 Projetista Robótico.
